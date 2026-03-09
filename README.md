@@ -1,38 +1,6 @@
-## 🌟 WELCOME TO ( সহজ সরল সিম্পল ) ASSIGNMENT-002 😎
 
----
 
-📅 Deadline For 60 marks: 20th January, 2026 (11:59 pm ⏱️)
-
-📅 Deadline For 50 marks: 21th January, 2026 (11:59 pm ⏱️)
-
-📅 Deadline For 30 marks: Any time after 21th January.
-
-# TechWave - Podcast Website
-
-## ❓ Common Questions & Answers
-
-**Can I use different images?**
-
-- Yes, you may use any relevant images.
-
-**Can I change the alignment and design freely?**
-
-- No. You must follow the alignment and layout shown in the Figma design.
-
-**Can I change colors?**
-
-- Yes, as long as the colors are relevant and visually consistent.
-
-**Do I need to make the page pixel-perfect?**
-
-- No. You can use your own margin and padding while following the overall structure from Figma.
-
----
-
-## 📌 Assignment Requirements
-
-### ✅ Main Requirements (50 Marks)
+### ✅ Main Requirements 
 
 ### Navbar
 
@@ -91,8 +59,6 @@
 
 ---
 
-## 🚀 CHALLENGES (10 Marks)
-
 ### Host Section
 
 - **Desktop/Laptop/Large Device:**
@@ -125,16 +91,6 @@
 - CSS3/Tailwind CSS
 - No JavaScript
 
----
-
-## ✅ Submission Checklist
-
-- Figma layout followed correctly
-- Proper alignment and spacing
-- Clean and readable HTML & CSS
-- Each Section are responsive with proper breakpoints
-- Live site deployed
-- Public GitHub repository
 
 ---
 
